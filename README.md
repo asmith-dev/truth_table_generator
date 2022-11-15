@@ -9,3 +9,15 @@ This program supports:
 * Plain ol' true `1` and false `0` statements
 * Parenthetical expressions `()`
 * Multiple entries, each separated by a `;`
+
+## Installation and Usage
+
+To download the code from the terminal, use:
+```
+git clone https://github.com/asmith-dev/truth_table_generator.git
+```
+
+Then, to run the program (while in the same directory of installation):
+```
+python3 truth_table_generator
+```
